@@ -1,7 +1,8 @@
-# Modified LinkedIn data scraping script by Luke Barousse
+# Modified LinkedIn data scraping script, original by Luke Barousse
 
-Luke's scraping script wasn't working for my browser, perhaps due to date and region. I have therefore modified it so that it will. Please follow Luke's guide.
+Luke's scraping script wasn't working for my browser, perhaps due to date and region. I have therefore modified it so that it will. Please follow Luke's guide for installation etc.
 https://github.com/lukebarousse/Job_Analysis
+
 
 Less significantly, the .get_element_by_[method]\() has been deprecated. New behaviour is .get_element\[s]\(By.[method], "[identifier]").
 https://selenium-python.readthedocs.io/locating-elements.html
@@ -16,3 +17,5 @@ IMPORTANT NOTE: LinkedIn will BLOCK you from searching if you are scraping too m
 # Additional libraries
 - Numpy v1.25.2
 - Icecream v2.1.3 (excellent debugging print statement upgrade)
+- Regex (standard library)
+- Beautiful Soup 4 [bs4] v0.0.1 on PyCharm (html parser)
