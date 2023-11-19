@@ -7,7 +7,7 @@ https://github.com/lukebarousse/Job_Analysis
 Less significantly, the .get_element_by_[method]\() has been deprecated. New behaviour is .find_element\[/s]\(By.[method], "[identifier]").
 https://selenium-python.readthedocs.io/locating-elements.html
 
-I have included my version of chromedriver.exe. Python version 3.11.
+I have included my version of chromedriver.exec (Intel Mac). Python version 3.11.
 
 # Disclaimer
 
