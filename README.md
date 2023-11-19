@@ -3,6 +3,8 @@
 Luke's scraping script wasn't working for my browser, perhaps due to date and region. I have therefore modified it so that it will. Please follow Luke's guide.
 https://github.com/lukebarousse/Job_Analysis
 
+Less significantly, the .get_element_by_[method] has been deprecated. New behaviour is .get_element[s](By.[method], "[identifier]").
+
 I have included my version of chromedriver.exe. Python version 3.11.
 
 # Disclaimer
