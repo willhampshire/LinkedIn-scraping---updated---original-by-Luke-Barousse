@@ -1,6 +1,6 @@
 # Modified LinkedIn data scraping script, original by Luke Barousse
 
-Luke's scraping script wasn't working for my browser, perhaps due to date and region. I have therefore modified it so that it will. Please follow Luke's guide for installation etc.
+Luke's scraping script wasn't working for my browser, perhaps due to date and region. I have therefore modified it so that the majority of it works - there is some functionality that is still broken though. Please follow Luke's guide for installation etc.
 https://github.com/lukebarousse/Job_Analysis
 
 
